@@ -1,0 +1,5 @@
+# Accompanying external configuration for blog post at https://tech.asimio.net/2020/11/12/Refreshing-Feature-Flags-using-Togglz-and-Spring-Cloud-Config-Server.html
+togglz:
+  features:
+    USE_NEW_SOMESERVICE:
+      enabled: true
